@@ -98,6 +98,10 @@ nav.fixed{
     z-index: 1;
 }
 
+#my-navbar{
+	background-color:#fff;
+}
+
 .dropdown-menu {
     box-shadow: none;
 }
