@@ -55,7 +55,7 @@ a{
     color:#0099cc;
 }
 
-a:hover{
+a:hover, .dropdown-menu>li>a:hover{
     background-color: #ffd633;
 }
 
