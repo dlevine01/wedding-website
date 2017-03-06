@@ -98,8 +98,9 @@ nav.fixed{
     z-index: 1;
 }
 
-#myNavbar{
+.navbar-collapse.in{
 	background-color:#fff;
+	border-top:none;
 }
 
 .dropdown-menu {
