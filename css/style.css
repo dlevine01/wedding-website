@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'sofia_prolight';
-    src: url('sofiapro/sofiapro-light-webfont.eot');
-    src: url('sofiapro/sofiapro-light-webfont.eot?#iefix') format('embedded-opentype'),
-         url('sofiapro/sofiapro-light-webfont.woff2') format('woff2'),
-         url('sofiapro/sofiapro-light-webfont.woff') format('woff'),
-         url('sofiapro/sofiapro-light-webfont.ttf') format('truetype'),
-         url('sofiapro/sofiapro-light-webfont.svg#sofia_prolight') format('svg');
+    src: url('../fonts/sofiapro-light-webfont.eot');
+    src: url('../fonts/sofiapro-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts//sofiapro-light-webfont.woff2') format('woff2'),
+         url('../fonts/sofiapro-light-webfont.woff') format('woff'),
+         url('../fonts/sofiapro-light-webfont.ttf') format('truetype'),
+         url('../fonts/sofiapro-light-webfont.svg#sofia_prolight') format('svg');
     font-weight: normal;
     font-style: normal;
 
