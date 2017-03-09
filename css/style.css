@@ -191,23 +191,17 @@ nav.fixed{
     line-height: 1.8em;
 }
 
-#venue div{
-    
-    padding: 5px;
-    overflow: hidden;
-}
-
 #venue p {
     line-height: 1.6em;
 }
 
-#Blooming-Hill-img-1 {
-    margin-left: -5px;
+#venue img{
+    margin-top: 5px;
 }
 
-#Blooming-Hill-img-2 {
-    margin-left: 0;
-    max-width: 750px;
+#blooming-hill-img-2-container {
+    padding-top: 5px;
+    max-width: 748px;
 }
 
 
@@ -248,7 +242,6 @@ div {
         text-align: right;
         padding-top: 1em;
 }
-
 
 
 
