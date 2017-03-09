@@ -149,7 +149,7 @@ nav.fixed{
 }
 
 #cover-page{
-    background:url(https://d17oy1vhnax1f7.cloudfront.net/items/3i3g153m3h1c3B3Y1o1l/p8142755-2000x1500-83.jpg)fixed top center no-repeat;
+    background:url(../images/p8142755-2000x1500-83.jpg)fixed top center no-repeat;
     width: 100vw;
     padding: 20% 0;
     min-height: 85vh;
@@ -200,7 +200,7 @@ nav.fixed{
 
 
 #footer {
-    background:url(https://cl.ly/1r0V1K0b0p3n/Blooming%20Hill%20scene%20for%20footer.jpg)fixed bottom center no-repeat;   
+    background:url(../images/Blooming%20Hill%20scene%20for%20footer.jpg)fixed bottom center no-repeat;   
 }
 
 #footer h3 {
