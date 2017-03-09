@@ -244,9 +244,9 @@ div {
 
 /*this checks screen width and then applies a new style (here text-align:right;) on size sm and above*/
 @media (min-width: 768px) {
-    .text-sm-right{
+    #wedding-time{
         text-align: right;
-    }
+        padding-top: 1em;
 }
 
 
