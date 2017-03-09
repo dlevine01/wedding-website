@@ -193,9 +193,15 @@ nav.fixed{
     overflow: hidden;
 }
 
-#venue img{
-    max-width: 100%;
-    
+
+
+#Blooming-Hill-img-1 {
+    margin-left: -5px;
+}
+
+#Blooming-Hill-img-2 {
+    margin-left: 0;
+    max-width: 750px;
 }
 
 
@@ -240,7 +246,3 @@ div {
 
 
 
-#Blooming-Hill-img-2 {
-    border: 4px solid #fff;
-    max-width:752px;
-}
