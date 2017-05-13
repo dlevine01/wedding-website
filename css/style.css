@@ -102,6 +102,12 @@ nav.fixed{
 
 }
 
+del{
+    color: #aaa;
+    text-decoration: line-through;
+    text-decoration-color: #093;
+}
+
 small{
     color: #093;
 }
