@@ -102,6 +102,10 @@ nav.fixed{
 
 }
 
+small{
+    color: #093;
+}
+
 .navbar-collapse.in{
 	background-color:#fff;
 	border-top:none;
